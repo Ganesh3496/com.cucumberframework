@@ -1,0 +1,5 @@
+com\stepdefinations\LoginArtoftestingEcom.class
+com\testrunner\TestRunner.class
+com\stepdefinations\SetUpAndTearDown.class
+com\stepdefinations\StepDefinitions.class
+com\stepdefinations\LoginStepdef.class
